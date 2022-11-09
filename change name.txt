@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate lacinia erat, a finibus sapien sodales ut. Fusce ante nunc, pretium in tincidunt a, cursus eu nisi. Aliquam dapibus interdum ipsum sit amet maximus. Vestibulum sed fringilla mauris. Donec mauris est, faucibus sit amet ante quis, molestie maximus felis. Sed rhoncus sem nec nisi sodales molestie. Mauris aliquet augue at velit porta, sed venenatis massa lacinia. Vestibulum malesuada nunc eget enim ullamcorper, vel suscipit nulla interdum. Donec sagittis efficitur lorem, eget venenatis nunc rhoncus sit amet. Phasellus et metus turpis.
 
 
@@ -6,4 +7,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate lacinia
 Quisque sit amet sapien blandit ligula dignissim auctor. Sed libero turpis, commodo ut placerat et, pulvinar non felis. Ut turpis quam, euismod quis vehicula ut, vehicula nec nunc. Pellentesque a blandit lorem, eget sodales velit. Etiam malesuada elementum turpis, ac sodales lorem. In sed convallis massa, nec pharetra velit. Ut sit amet diam vel urna laoreet consequat id sit amet orci. Cras ullamcorper sit amet urna id porta. Proin sem diam, ultrices quis diam non, bibendum rhoncus ante.
 =======
 blablablah
+>>>>>>> ChangeText
+=======
+blablablah
+safjsoafsajf
+asjfhaufjoiaf
+sfjaojsof
 >>>>>>> ChangeText
