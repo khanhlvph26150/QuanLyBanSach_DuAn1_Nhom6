@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>_3.PL</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Utilities\**" />
+    <Compile Remove="Views\**" />
+    <EmbeddedResource Remove="Utilities\**" />
+    <EmbeddedResource Remove="Views\**" />
+    <None Remove="Utilities\**" />
+    <None Remove="Views\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\2.BUS\2.BUS.csproj" />
+  </ItemGroup>
+
+</Project>
