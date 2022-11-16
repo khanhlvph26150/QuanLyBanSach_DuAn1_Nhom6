@@ -19,10 +19,8 @@ namespace _3.PL
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmAll());
-            //blabajfoifjawoi
-            //foajoiaejfiewjfwe
-            //aoeijfoiewjfaow
-            //foiawfjoweijewoij
+            //cmt1 dongbatki
+
         }
     }
 }
