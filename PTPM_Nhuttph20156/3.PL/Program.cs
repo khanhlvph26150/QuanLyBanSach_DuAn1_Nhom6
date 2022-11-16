@@ -19,8 +19,10 @@ namespace _3.PL
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmAll());
-            //cmt1 dongbatki
-
+            //blabajfoifjawoi
+            //foajoiaejfiewjfwe
+            //aoeijfoiewjfaow
+            //foiawfjoweijewoij
         }
     }
 }
